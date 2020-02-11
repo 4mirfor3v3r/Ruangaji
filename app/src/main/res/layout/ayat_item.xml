@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/ayat_item_container"
+    android:padding="6dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/ayat_item_position"
+        android:text="1"
+        android:textSize="18sp"
+        android:background="@drawable/ic_bg_number"
+        android:textColor="#739F9D"
+        android:gravity="center"
+        android:layout_width="48dp"
+        android:layout_height="48dp" />
+
+    <LinearLayout
+        android:layout_margin="6dp"
+        android:layout_marginBottom="6dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/ayat_item_ar"
+            android:gravity="right"
+            android:textColor="@android:color/white"
+            android:text="mmmmmmmmm"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/ayat_item_arti"
+            android:text="mmmmmmmmmmmmmm"
+            android:textStyle="normal"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="12dp"
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

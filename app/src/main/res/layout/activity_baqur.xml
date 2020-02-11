@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/baqur_container"
+    android:background="@drawable/bg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:transitionName="btn_zooms"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Baqur">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/activity_baqur_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/baqur_bottom_container"
+        />
+    <RelativeLayout
+        android:id="@+id/baqur_bottom_container"
+        android:background="@drawable/baca_quran_bottom_container"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:layout_height="80dp">
+
+        <Chronometer
+            android:id="@+id/activity_baqur_record_time"
+            android:textColor="@android:color/black"
+            android:visibility="invisible"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content"
+            android:text="aaaa" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/activity_baqur_btn_record"
+            android:src="@drawable/ic_record"
+            android:layout_width="56dp"
+            android:layout_height="56dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

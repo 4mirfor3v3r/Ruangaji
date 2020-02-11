@@ -1,0 +1,669 @@
+[
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 40,
+    "title": "An-Naba",
+    "titleAr": "النبأ",
+    "index": "078",
+    "pages": "Berita besar",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_40"
+        }
+      }
+    ]
+  },
+
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 46,
+    "title": "An-Naziat",
+    "titleAr": "النازعات",
+    "index": "079",
+    "pages": "Malaikat-Malaikat Yang Mencabut",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_46"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 42,
+    "title": "Abasa",
+    "titleAr": "عبس",
+    "index": "080",
+    "pages": "Ia Bermuka masam",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_42"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 29,
+    "title": "At-Takwir",
+    "titleAr": "التكوير",
+    "index": "081",
+    "pages": "Menggulung",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_29"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Infitar",
+    "titleAr": "الإنفطار",
+    "index": "082",
+    "pages": "Terbelah",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 36,
+    "title": "Al-Mutaffifin",
+    "titleAr": "المطففين",
+    "index": "083",
+    "pages": "Orang-orang yang curang",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_36"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 25,
+    "title": "Al-Inshiqaq",
+    "titleAr": "الإنشقاق",
+    "index": "084",
+    "pages": "Terbelah",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_25"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 22,
+    "title": "Al-Buruj",
+    "titleAr": "البروج",
+    "index": "085",
+    "pages": "Gugusan bintang",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_22"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 17,
+    "title": "At-Tariq",
+    "titleAr": "الطارق",
+    "index": "086",
+    "pages": "Yang datang di malam hari",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_17"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Ala",
+    "titleAr": "الأعلى",
+    "index": "087",
+    "pages": "Yang paling tinggi",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 26,
+    "title": "Al-Ghashiyah",
+    "titleAr": "الغاشية",
+    "index": "088",
+    "pages": "Hari Pembalasan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_26"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 30,
+    "title": "Al-Fajr",
+    "titleAr": "الفجر",
+    "index": "089",
+    "pages": "Fajar",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_30"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 20,
+    "title": "Al-Balad",
+    "titleAr": "البلد",
+    "index": "090",
+    "pages": "Negeri",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_20"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 15,
+    "title": "Ash-Shams",
+    "titleAr": "الشمس",
+    "index": "091",
+    "pages": "Matahari",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_15"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 21,
+    "title": "Al-Lail",
+    "titleAr": "الليل",
+    "index": "092",
+    "pages": "Malam",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_21"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Ad-Duha",
+    "titleAr": "الضحى",
+    "index": "093",
+    "pages": "Waktu matahari sepenggalahan naik (Dhuha)",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "Ash-Sharh",
+    "titleAr": "الشرح",
+    "index": "094",
+    "pages": "Melapangkan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "At-Tin",
+    "titleAr": "التين",
+    "index": "095",
+    "pages": "Buah Tin",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 19,
+    "title": "Al-Alaq",
+    "titleAr": "العلق",
+    "index": "096",
+    "pages": "Segumpal Darah",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_19"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Qadr",
+    "titleAr": "القدر",
+    "index": "097",
+    "pages": "Kemuliaan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 8,
+    "title": "Al-Bayinah",
+    "titleAr": "البينة",
+    "index": "098",
+    "pages": "Pembuktian",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 8,
+    "title": "Az-Zalzalah",
+    "titleAr": "الزلزلة",
+    "index": "099",
+    "pages": "Kegoncangan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Al-Adiyat",
+    "titleAr": "العاديات",
+    "index": "100",
+    "pages": "Berlari kencang",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 11,
+    "title": "Al-Qariah",
+    "titleAr": "القارعة",
+    "index": "101",
+    "pages": "Hari Kiamat",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_11"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 8,
+    "title": "Al-Takathur",
+    "titleAr": "التكاثر",
+    "index": "102",
+    "pages": "Bermegah-megahan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_8"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 3,
+    "title": "Al-Asr",
+    "titleAr": "العصر",
+    "index": "103",
+    "pages": "Masa/Waktu",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 9,
+    "title": "Al-Humazah",
+    "titleAr": "الهمزة",
+    "index": "104",
+    "pages": "Pengumpat",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_9"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Fil",
+    "titleAr": "الفيل",
+    "index": "105",
+    "pages": "Gajah",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 4,
+    "title": "Quraish",
+    "titleAr": "قريش",
+    "index": "106",
+    "pages": "Suku Quraisy",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_4"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 7,
+    "title": "Al-Ma'un",
+    "titleAr": "الماعون",
+    "index": "107",
+    "pages": "Barang-barang yang berguna",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_7"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 3,
+    "title": "Al-Kauthar",
+    "titleAr": "الكوثر",
+    "index": "108",
+    "pages": "Nikmat yang berlimpah",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 6,
+    "title": "Al-Kafirun",
+    "titleAr": "الكافرون",
+    "index": "109",
+    "pages": "Orang-orang kafir",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_6"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Medina",
+    "type": "Madaniyah",
+    "count": 3,
+    "title": "An-Nasr",
+    "titleAr": "النصر",
+    "index": "110",
+    "pages": "Pertolongan",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_3"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Masad",
+    "titleAr": "المسد",
+    "index": "111",
+    "pages": "Gejolak Api/ Sabut",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 4,
+    "title": "Al-Ikhlas",
+    "titleAr": "الإخلاص",
+    "index": "112",
+    "pages": "Ikhlas",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_4"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 5,
+    "title": "Al-Falaq",
+    "titleAr": "الفلق",
+    "index": "113",
+    "pages": "Waktu Subuh",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_5"
+        }
+      }
+    ]
+  },
+  {
+    "place": "Mecca",
+    "type": "Makkiyah",
+    "count": 6,
+    "title": "An-Nas",
+    "titleAr": "الناس",
+    "index": "114",
+    "pages": "Umat Manusia",
+    "juz": [
+      {
+        "index": "30",
+        "verse": {
+          "start": "verse_1",
+          "end": "verse_6"
+        }
+      }
+    ]
+  }
+]

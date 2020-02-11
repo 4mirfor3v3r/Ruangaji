@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/main_container"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:transitionName="btn_main"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_marginBottom="-32dp"
+        android:src="@drawable/ruang"
+        android:layout_width="240dp"
+        android:layout_height="180dp" />
+
+    <Button
+        android:id="@+id/home_baca_quran"
+        android:background="@drawable/home_btn"
+        android:text="BACA QUR'AN"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:transitionName="btn_zoom"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/home_tahfidz_quran"
+        android:background="@drawable/home_btn"
+        android:text="TAHFIDZ"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/home_tajwid_quran"
+        android:background="@drawable/home_btn"
+        android:text="TAJWID"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/home_ghorib_quran"
+        android:background="@drawable/home_btn"
+        android:text="GHORIB"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/home_iqro_quran"
+        android:background="@drawable/home_btn"
+        android:text="IQRO"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
